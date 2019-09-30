@@ -1,0 +1,73 @@
+[I 12:29:13.433 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 12:29:13.434 NotebookApp] Serving notebooks from local directory: /home/xuetaozhang/kaikeba/homework/01
+[I 12:29:13.434 NotebookApp] The Jupyter Notebook is running at:
+[I 12:29:13.434 NotebookApp] http://localhost:8888/?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+[I 12:29:13.434 NotebookApp]  or http://127.0.0.1:8888/?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+[I 12:29:13.434 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:29:13.440 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xuetaozhang/.local/share/jupyter/runtime/nbserver-3320-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+     or http://127.0.0.1:8888/?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+Opening in existing browser session.
+[E 12:29:15.003 NotebookApp] Could not open static file ''
+[W 12:29:15.066 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 12.71ms referer=http://localhost:8888/tree?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+[W 12:29:15.105 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 7.20ms referer=http://localhost:8888/tree?token=c969432322a6e45376547d5cd4854274b0e338147699a2ab
+[W 12:29:21.479 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 5.86ms referer=http://localhost:8888/notebooks/Assignment-01.ipynb
+[W 12:29:21.572 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 4.80ms referer=http://localhost:8888/notebooks/Assignment-01.ipynb
+[W 12:29:21.899 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:29:24.129 NotebookApp] Kernel started: c2884154-f957-49f7-a8e1-43234c7ff664
+[W 12:29:24.683 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190930122913 (127.0.0.1) 6.34ms referer=http://localhost:8888/notebooks/Assignment-01.ipynb
+[I 12:29:24.877 NotebookApp] Adapting from protocol version 5.1 (kernel c2884154-f957-49f7-a8e1-43234c7ff664) to 5.3 (client).
+[I 12:31:24.652 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:31:24.653 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:35:24.111 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:35:24.112 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:37:24.109 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:37:24.110 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:39:24.109 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:39:24.110 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:41:24.110 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:41:24.111 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:43:24.109 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:43:24.110 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:45:24.106 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:45:24.107 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:47:24.110 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:47:24.111 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:49:24.108 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:49:24.109 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:51:24.110 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:51:24.111 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:53:24.108 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:53:24.110 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:53:44.387 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:53:44.389 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:55:24.109 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:55:24.110 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:55:32.756 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:55:32.758 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:57:24.111 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:57:24.113 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:59:24.111 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:59:24.121 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 12:59:48.683 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 12:59:48.685 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:01:24.112 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:01:24.114 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:01:35.296 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:01:35.298 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:11:05.935 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:11:05.936 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:11:06.215 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:11:06.218 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:17:24.128 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:17:24.130 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:19:24.129 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:19:24.131 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:21:24.636 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:21:24.637 NotebookApp] Notebook Assignment-01.ipynb is not trusted
+[I 13:24:50.528 NotebookApp] Saving file at /Assignment-01.ipynb
+[W 13:24:50.531 NotebookApp] Notebook Assignment-01.ipynb is not trusted
