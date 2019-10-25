@@ -1,0 +1,29 @@
+[I 02:08:51.469 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 02:08:51.469 NotebookApp] Serving notebooks from local directory: /home/xuetaozhang/kaikeba/homework/02
+[I 02:08:51.469 NotebookApp] The Jupyter Notebook is running at:
+[I 02:08:51.469 NotebookApp] http://localhost:8888/?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+[I 02:08:51.469 NotebookApp]  or http://127.0.0.1:8888/?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+[I 02:08:51.470 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:08:51.473 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xuetaozhang/.local/share/jupyter/runtime/nbserver-5783-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+     or http://127.0.0.1:8888/?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+Opening in existing browser session.
+[E 02:08:52.956 NotebookApp] Could not open static file ''
+[W 02:08:53.016 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 9.11ms referer=http://localhost:8888/tree?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+[W 02:08:53.025 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.62ms referer=http://localhost:8888/tree?token=ff9b9cc60639e7b4ac71686a5b0184946b983002e5401a85
+[W 02:08:56.390 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 5.09ms referer=http://localhost:8888/notebooks/Assignment2_2.ipynb
+[W 02:08:56.427 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 4.22ms referer=http://localhost:8888/notebooks/Assignment2_2.ipynb
+[W 02:08:56.716 NotebookApp] Notebook Assignment2_2.ipynb is not trusted
+[I 02:08:57.784 NotebookApp] Kernel started: 4a4a881d-71f6-4b2a-bf17-baf04b932fc4
+[W 02:08:57.792 NotebookApp] 404 GET /notebooks/img/ditu.png (127.0.0.1): No such file or directory: img/ditu.png
+[W 02:08:57.794 NotebookApp] 404 GET /notebooks/img/ditu.png (127.0.0.1) 6.34ms referer=http://localhost:8888/notebooks/Assignment2_2.ipynb
+[W 02:08:57.795 NotebookApp] 404 GET /notebooks/img/agent.png (127.0.0.1): No such file or directory: img/agent.png
+[W 02:08:57.797 NotebookApp] 404 GET /notebooks/img/agent.png (127.0.0.1) 8.48ms referer=http://localhost:8888/notebooks/Assignment2_2.ipynb
+[W 02:08:58.127 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20191023020851 (127.0.0.1) 3.29ms referer=http://localhost:8888/notebooks/Assignment2_2.ipynb
+[I 02:08:58.416 NotebookApp] Adapting from protocol version 5.1 (kernel 4a4a881d-71f6-4b2a-bf17-baf04b932fc4) to 5.3 (client).
+[I 02:10:57.779 NotebookApp] Saving file at /Assignment2_2.ipynb
+[I 02:12:00.314 NotebookApp] Starting buffering for 4a4a881d-71f6-4b2a-bf17-baf04b932fc4:05729c9d690f4bb6b2f9ceb7be344d23
