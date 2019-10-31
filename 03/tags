@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+calcShannonEnt	dt.py	/^def calcShannonEnt(dataSet):$/;"	f
+chooseBestFeatureToSplit	dt.py	/^def chooseBestFeatureToSplit(dataSet):$/;"	f
+classify	dt.py	/^def classify(inputTree, featLabels, testVec):$/;"	f
+classifyAll	dt.py	/^def classifyAll(inputTree, featLabels, testDataSet):$/;"	f
+createDataSet	dt.py	/^def createDataSet():$/;"	f
+createTestSet	dt.py	/^def createTestSet():$/;"	f
+createTree	dt.py	/^def createTree(dataSet, labels):$/;"	f
+grabTree	dt.py	/^def grabTree(filename):$/;"	f
+main	dt.py	/^def main():$/;"	f
+majorityCnt	dt.py	/^def majorityCnt(classList):$/;"	f
+splitDataSet	dt.py	/^def splitDataSet(dataSet, axis, value):$/;"	f
+storeTree	dt.py	/^def storeTree(inputTree, filename):$/;"	f
